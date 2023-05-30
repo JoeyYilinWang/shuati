@@ -1,0 +1,1 @@
+/usr/bin/c++   -Wall  -rdynamic CMakeFiles/split_find.dir/二分查找.cpp.o  -o split_find 

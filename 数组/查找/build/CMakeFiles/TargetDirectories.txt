@@ -1,0 +1,3 @@
+/home/joey/Projects/shuati/数组/查找/build/CMakeFiles/rebuild_cache.dir
+/home/joey/Projects/shuati/数组/查找/build/CMakeFiles/edit_cache.dir
+/home/joey/Projects/shuati/数组/查找/build/CMakeFiles/split_find.dir
